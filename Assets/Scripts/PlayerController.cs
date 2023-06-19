@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     private float turnSpeed = 25f;
     private float horizontalInput;
     private float forwardInput;
-
     #endregion
 
     #region UnityMethods
